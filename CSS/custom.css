@@ -1,0 +1,24 @@
+.label-secondary,
+.bg-secondary {
+    background-color: #34B5DA;
+}
+
+.bg-info{
+    background-color: black;
+}
+
+.navbar .navbar-brand {
+    color: white;
+    font-size: .8rem;
+    padding-top: .65rem;
+}
+
+.jumbotron {
+    background-image: url('../img/jumbo-bg.jpg');
+    background-size: cover;
+}
+
+.btn,
+.active {
+    transition: .4s
+}
